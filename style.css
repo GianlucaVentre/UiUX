@@ -25,6 +25,9 @@ font-family: 'Cormorant Garamond', serif;
   font-family:  'Bebas Neue', sans-serif;
   width: 100%;
 }
+.dropdown-item {
+  style: none;
+}
 
 .btn-dropdown{
   background-color: #758b76;
