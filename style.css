@@ -24,10 +24,13 @@ font-family: 'Cormorant Garamond', serif;
   padding: .8rem;
   font-family:  'Bebas Neue', sans-serif;
   width: 100%;
-  style:none;
+
 }
 
-
+.dropdown-item {
+  color:#222
+  style: none;
+}
 
 
 .btn-dropdown{
