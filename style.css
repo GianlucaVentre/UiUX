@@ -184,10 +184,8 @@ hr.light-100{
   margin-top: .8rem;
   margin-bottom: 1rem;
 }
-
-#abstract {
-  width: 30%;
-  height: 7rem;
+.message {
+  padding-left: 4rem;
 }
 
 
@@ -211,6 +209,9 @@ hr.light-100{
   footer p{
     padding: 2.5rem;
   }
+  .message {
+    padding-left: 3.5rem;
+  }
 }
 
 @media (max-width: 576px) {
@@ -227,6 +228,9 @@ hr.light-100{
     }
     footer p{
       padding: .8rem;
+    }
+    .message {
+      padding-left: 2rem;
     }
 }
 
