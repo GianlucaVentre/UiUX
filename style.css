@@ -25,8 +25,15 @@ font-family: 'Cormorant Garamond', serif;
   font-family:  'Bebas Neue', sans-serif;
   width: 100%;
 }
-.a {
-  color: white;
+
+a.Home {
+color: white;
+}
+a.Metodo {
+color: white;
+}
+a.About me  {
+color: white;
 }
 
 .btn-dropdown{
