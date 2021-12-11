@@ -26,8 +26,8 @@ font-family: 'Cormorant Garamond', serif;
   width: 100%;
 }
 
-a.Home {
-color: white;
+a.navbar {
+style: none;
 }
 a.Metodo {
 color: white;
