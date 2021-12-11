@@ -26,15 +26,10 @@ font-family: 'Cormorant Garamond', serif;
   width: 100%;
 }
 
-a.navbar {
+.nav-link {
 style: none;
 }
-a.Metodo {
-color: white;
-}
-a.About me  {
-color: white;
-}
+
 
 .btn-dropdown{
   background-color: #758b76;
