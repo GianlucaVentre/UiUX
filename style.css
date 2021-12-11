@@ -29,6 +29,12 @@ font-family: 'Cormorant Garamond', serif;
   text-decoration: none;
   color: black;
 }
+#Home {
+  color: black;
+}
+#Metodo,
+
+
 .btn-dropdown{
   background-color: #758b76;
   padding-top: .8rem;
@@ -60,6 +66,7 @@ font-family: 'Cormorant Garamond', serif;
 
 .btn-primary{
   background-color: #758b76;
+  border: 1px solid #d5d5d5;
 }
 .btn-primary:hover{
   background-color: #d5d5d5;
