@@ -27,10 +27,12 @@ font-family: 'Cormorant Garamond', serif;
 
 }
 
-.dropdown-item {
-  color:#222
-  style: none;
+a:link, a:visited {
+    text-decoration: none;
+    color:#222;
 }
+
+
 
 
 .btn-dropdown{
@@ -42,9 +44,6 @@ font-family: 'Cormorant Garamond', serif;
   margin-left: 10%;
   font-size: 1rem;
   border: 1px solid #d5d5d5;
-
-
-
 
 
 }
@@ -70,12 +69,20 @@ font-family: 'Cormorant Garamond', serif;
 
 .btn-primary{
   background-color: #758b76;
-  border: 1px solid #d5d5d5;
 }
 .btn-primary:hover{
   background-color: #d5d5d5;
+}
+.btn-secondary{
+  background-color: #ebeef3;
+  width: 5rem;
   border: 1px solid #d5d5d5;
 }
+.btn-secondary{
+  background-color: #d5d5d5;
+}
+
+
 .padding{
   padding-bottom: 2rem;
 }
