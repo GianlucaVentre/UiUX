@@ -24,6 +24,7 @@ font-family: 'Cormorant Garamond', serif;
   padding: .8rem;
   font-family:  'Bebas Neue', sans-serif;
   width: 100%;
+  justify-content: space-between;
 }
 .navbar a{
   text-decoration: none;
@@ -38,12 +39,9 @@ font-family: 'Cormorant Garamond', serif;
   padding-right: 3rem;
   margin-left: 10%;
   font-size: 1rem;
-  border: 1px solid #d5d5d5;
-
 }
 .btn-dropdown:hover{
   background-color: #d5d5d5;
-  border: 1px solid #d5d5d5;
 }
 
 .dropdown-menu {
@@ -69,13 +67,7 @@ font-family: 'Cormorant Garamond', serif;
   background-color: #ebeef3;
   text-decoration: none;
   width: 5rem;
-  border: 1px solid #d5d5d5;
 }
-.btn-secondary{
-  background-color: #d5d5d5;
-}
-
-
 
 .padding{
   padding-bottom: 2rem;
@@ -192,7 +184,6 @@ hr.light-100{
 /*---Media Queries --*/
 
 @media (max-width: 992px) {
-
 .social a {
   font-size:4rem;
   padding: 3rem;
